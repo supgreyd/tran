@@ -74,7 +74,7 @@
     "main.shop.go-to-autodoc": "Weiter zu AUTODOC",
     "main.shop.shop-now": "Jetzt kaufen",
     "main.subscribe.new": "Abonnieren Sie unsere News und Updates.",
-    "main.subscribe.policy": "Bitte beachten Sie unsere Datenschutzerklärung",
+    "main.subscribe.policy": "Bitte beachten Sie unsere %Datenschutzerklärung%",
     "main.subscribe.agree": "Sie willigen ein, dass wir Ihnen regelmäßig per E-Mail personalisierte Newsletter und Informationen zu Produkten, aktuellen Angeboten und Sonderaktionen sowie Warenkorberinnerungen senden. \nSie können Ihre Einwilligung jederzeit widerrufen.",
     "main.subscribe": "Abonnieren",
     "main.subscribe.mail": "E-Mail-Adresse"
