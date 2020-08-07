@@ -1,5 +1,5 @@
 {
-    "en": {
+    "bg": {
     "main.btn.place-ad": "Направи обява",
     "main.search.tip1": "Въведи име или номер на частта",
     "main.search.tip2": "Какво търсиш?",
@@ -38,5 +38,45 @@
     "main.subscribe.agree": "Съгласявате се да получавате редовно персонализирани бюлетини и информация за продукти, настоящи оферти и специални промоции, както и напомняния за пазарската кошница по имейл. Можете да оттеглите съгласието си по всяко време.",
     "main.subscribe": "Абонирай се",
     "main.subscribe.mail": "Имейл адрес"
+  },
+    "de": {
+    "main.btn.place-ad": "Eine Anzeige aufgeben",
+    "main.search.tip1": "Name oder Nummer des Teils eingeben",
+    "main.search.tip2": "Wonach suchen Sie?",
+    "main.search.show-all": "Alle Ergebnisse anzeigen",
+    "main.search-location.tip1": "Anderen Standort eingeben",
+    "main.search-location.tip2": "PLZ oder Standort eingeben",
+    "main.search-location.tip3": "{56} km",
+    "main.auth.login": "Einloggen",
+    "main.auth.or": "oder",
+    "main.auth.register": "Registrieren",
+    "main.auth.profile": "Mein Profil",
+    "main.auth.account": "Mein Account",
+    "main.auth.ads": "Meine Anzeigen",
+    "main.auth.settings": "Einstellungen",
+    "main.auth.logout": "Abmelden",
+    "main.notification": "Benachrichtigungen",
+    "main.categories": "Kategorien",
+    "main.categories.view-all": "Alle anzeigen",
+    "main.categories.all": "Alle",
+    "main.categories.more": "Mehr",
+    "main.categories.cities": "Städte",
+    "main.categories.new-ads": "Neue Anzeigen",
+    "main.categories.place-new-ad": "Neue Anzeige aufgeben",
+    "main.categories.view-all-ads": "Alle Anzeigen ansehen",
+    "main.categories.top-categories": "Top-Kategorien",
+    "main.categories.top-search": "Häufigste Suchanfragen",
+    "main.categories.popular": "Beliebte Kategorien",
+    "main.categories.popular-searches": "Beliebte Suchanfragen",
+    "main.categories.right-deal": "Finden Sie das passende Angebot mit AUTODOC-Kleinanzeigen",
+    "main.shop.quik-search": "Nutzen Sie die Schnellsuche, um die besten Angebote in Ihrer Nähe zu finden.",
+    "main.shop.find-new": "Finden Sie neue Autoteile bei AUTODOC – günstiger als Sie sich vorstellen können!",
+    "main.shop.go-to-autodoc": "Weiter zu AUTODOC",
+    "main.shop.shop-now": "Jetzt kaufen",
+    "main.subscribe.new": "Abonnieren Sie unsere News und Updates.",
+    "main.subscribe.policy": "Bitte beachten Sie unsere Datenschutzerklärung",
+    "main.subscribe.agree": "Sie willigen ein, dass wir Ihnen regelmäßig per E-Mail personalisierte Newsletter und Informationen zu Produkten, aktuellen Angeboten und Sonderaktionen sowie Warenkorberinnerungen senden. \nSie können Ihre Einwilligung jederzeit widerrufen.",
+    "main.subscribe": "Abonnieren",
+    "main.subscribe.mail": "E-Mail-Adresse"
   }
 }
