@@ -6,7 +6,7 @@
     "main.search.show-all": "Показване на всички резултати",
     "main.search-location.tip1": "Въведи друго местоположение",
     "main.search-location.tip2": "Въведи ПК или местоположение",
-    "main.search-location.tip3": "{56} км",
+    "main.search-location.tip3": "{distance} км",
     "main.auth.login": "Вход",
     "main.auth.or": "или",
     "main.auth.register": "Регистрация",
@@ -34,7 +34,7 @@
     "main.shop.go-to-autodoc": "Посети AUTODOC",
     "main.shop.shop-now": "Пазарувай сега",
     "main.subscribe.new": "Абонирай се за новини и обновления от нас.",
-    "main.subscribe.policy": "Моля, запознайте се с нашата Политика на поверителност",
+    "main.subscribe.policy": "Моля, запознайте се с нашата %Политика на поверителност%",
     "main.subscribe.agree": "Съгласявате се да получавате редовно персонализирани бюлетини и информация за продукти, настоящи оферти и специални промоции, както и напомняния за пазарската кошница по имейл. Можете да оттеглите съгласието си по всяко време.",
     "main.subscribe": "Абонирай се",
     "main.subscribe.mail": "Имейл адрес"
